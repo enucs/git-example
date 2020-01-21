@@ -4,6 +4,6 @@ Violets are Blue
 Unexpected '{'
 on line 7.
 
-{
+{I closed this brace for fun}
 
 Hello from github
