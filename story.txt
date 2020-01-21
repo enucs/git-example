@@ -5,5 +5,7 @@ Unexpected '{'
 on line 7.
 
 {
+    "title": "I am json"
+}
 
 Hello from github
